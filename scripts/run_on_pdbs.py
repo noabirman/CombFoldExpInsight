@@ -196,7 +196,7 @@ def get_pdb_to_partial_subunits(pdbs_folder: str, subunits_info: SubunitsInfo) -
         pdb_path = os.path.join(pdbs_folder, pdb_filename)
 
         partial_subunits: List[PartialSubunit] = []
-        chain_to_seq = get_chain_to_seq(pdb_path)
+        chain_to_seq = get_chain_to_seq(pdb_path, use_seqres=False)
         for chain_id, chain_seq in chain_to_seq.items():
             for subunit_info in subunits_info.values():
                 subunit_seq = subunit_info.sequence
@@ -229,7 +229,18 @@ def get_pdb_to_partial_subunits(pdbs_folder: str, subunits_info: SubunitsInfo) -
                     min_match_length = 10
                     start_ind = 0
                     while start_ind < len(chain_seq) - min_match_length:
+                        if chain_seq[start_ind] == "X":
+                            start_ind += 1
+                            continue
                         end_ind = start_ind + min_match_length
+                        while len(chain_seq[start_ind:end_ind].replace("X", "")) < min_match_length:
+                            end_ind += 1
+                            if end_ind >= len(chain_seq):
+                                end_ind += 1
+                                break
+                        if end_ind >= len(chain_seq):
+                            break
+
                         if chain_seq[start_ind:end_ind] not in subunit_seq:
                             start_ind += 1
                             continue
@@ -242,7 +253,7 @@ def get_pdb_to_partial_subunits(pdbs_folder: str, subunits_info: SubunitsInfo) -
                         end_residue_id = end_ind + 1
 
                         subunit_start_ind = subunit_seq.index(chain_seq[start_ind:end_ind])
-                        print(f"found partial {subunit_info.name} in {pdb_filename} chain {chain_id} "
+                        print(f"found small partial {subunit_info.name} in {pdb_filename} chain {chain_id} "
                               f"starting at index {start_ind} to {end_ind} (on subunit {subunit_start_ind})"
                               f"length {(end_ind - start_ind)}/{len(subunit_seq)}")
                         partial_subunits.append(PartialSubunit(subunit_name=subunit_info.name,
