@@ -52,7 +52,8 @@ def merge_exi_and_full_seq_into_subunit_info(experimental: Dict[str, str], full_
         missing_subunits = find_long_x_sequences(sequence)
         if not missing_subunits:  # in case no holes, keep the original seq and chain_id
             subunit_name = chain_id + "EXI"
-            subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id], start_res=1, sequence=sequence)
+            subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id], start_res=1,
+                                                      sequence=sequence)
         chain_num = 1
         start_index = 0
         for hole in missing_subunits:
@@ -92,13 +93,13 @@ if __name__ == '__main__':
         cleaned_full_known_seq = {
             chain_id.split(":")[1]: seq for chain_id, seq in full_known_seq.items()
         }
-        #exp_seq_after_fiiling = add_missing_subunits_seq(chain_to_seq, cleaned_full_known_seq)
+        # exp_seq_after_fiiling = add_missing_subunits_seq(chain_to_seq, cleaned_full_known_seq)
         merged_subunits_info = merge_exi_and_full_seq_into_subunit_info(chain_to_seq, cleaned_full_known_seq)
 
-            # check if filling was good
-        #print("Key-Value pairs after filling:", exp_seq_after_fiiling.items())
+        # check if filling was good
+        # print("Key-Value pairs after filling:", exp_seq_after_fiiling.items())
 
-        #combined_subunits_info = create_subunit_info_from_chain_seq(exp_seq_after_fiiling)
+        # combined_subunits_info = create_subunit_info_from_chain_seq(exp_seq_after_fiiling)
         save_subunits_info(merged_subunits_info, os.path.join(output_path, 'merged_subunits.json'))
     else:
         print("usage: <script> pdb_path, output_path")
