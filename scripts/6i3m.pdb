@@ -1,117 +1,118 @@
 HEADER    TRANSLATION                             06-NOV-18   6I3M              
-"TITLE     EIF2B:EIF2 COMPLEX, PHOSPHORYLATED ON EIF2 ALPHA SERINE 52.           "
+TITLE     EIF2B:EIF2 COMPLEX, PHOSPHORYLATED ON EIF2 ALPHA SERINE 52.           
 COMPND    MOL_ID: 1;                                                            
 COMPND   2 MOLECULE: TRANSLATION INITIATION FACTOR EIF-2B SUBUNIT ALPHA;        
-"COMPND   3 CHAIN: A, B;                                                         "
-"COMPND   4 SYNONYM: GCD COMPLEX SUBUNIT GCN3,GUANINE NUCLEOTIDE EXCHANGE FACTOR "
-"COMPND   5 SUBUNIT GCN3,TRANSCRIPTIONAL ACTIVATOR GCN3,EIF-2B GDP-GTP EXCHANGE  "
+COMPND   3 CHAIN: A, B;                                                         
+COMPND   4 SYNONYM: GCD COMPLEX SUBUNIT GCN3,GUANINE NUCLEOTIDE EXCHANGE FACTOR 
+COMPND   5 SUBUNIT GCN3,TRANSCRIPTIONAL ACTIVATOR GCN3,EIF-2B GDP-GTP EXCHANGE  
 COMPND   6 FACTOR SUBUNIT ALPHA;                                                
 COMPND   7 ENGINEERED: YES;                                                     
 COMPND   8 MOL_ID: 2;                                                           
 COMPND   9 MOLECULE: TRANSLATION INITIATION FACTOR EIF-2B SUBUNIT DELTA;        
-"COMPND  10 CHAIN: C, D;                                                         "
-"COMPND  11 SYNONYM: GCD COMPLEX SUBUNIT GCD2,GUANINE NUCLEOTIDE EXCHANGE FACTOR "
-"COMPND  12 SUBUNIT GCD2,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT DELTA;           "
+COMPND  10 CHAIN: C, D;                                                         
+COMPND  11 SYNONYM: GCD COMPLEX SUBUNIT GCD2,GUANINE NUCLEOTIDE EXCHANGE FACTOR 
+COMPND  12 SUBUNIT GCD2,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT DELTA;           
 COMPND  13 ENGINEERED: YES;                                                     
 COMPND  14 MOL_ID: 3;                                                           
 COMPND  15 MOLECULE: TRANSLATION INITIATION FACTOR EIF-2B SUBUNIT BETA;         
-"COMPND  16 CHAIN: E, F;                                                         "
-"COMPND  17 SYNONYM: GCD COMPLEX SUBUNIT GCD7,GUANINE NUCLEOTIDE EXCHANGE FACTOR "
-"COMPND  18 SUBUNIT GCD7,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT BETA;            "
+COMPND  16 CHAIN: E, F;                                                         
+COMPND  17 SYNONYM: GCD COMPLEX SUBUNIT GCD7,GUANINE NUCLEOTIDE EXCHANGE FACTOR 
+COMPND  18 SUBUNIT GCD7,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT BETA;            
 COMPND  19 ENGINEERED: YES;                                                     
 COMPND  20 MOL_ID: 4;                                                           
 COMPND  21 MOLECULE: TRANSLATION INITIATION FACTOR EIF-2B SUBUNIT EPSILON;      
-"COMPND  22 CHAIN: G, H;                                                         "
-"COMPND  23 SYNONYM: GCD COMPLEX SUBUNIT GCD6,GUANINE NUCLEOTIDE EXCHANGE FACTOR "
-"COMPND  24 SUBUNIT GCD6,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT EPSILON;         "
+COMPND  22 CHAIN: G, H;                                                         
+COMPND  23 SYNONYM: GCD COMPLEX SUBUNIT GCD6,GUANINE NUCLEOTIDE EXCHANGE FACTOR 
+COMPND  24 SUBUNIT GCD6,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT EPSILON;         
 COMPND  25 ENGINEERED: YES;                                                     
 COMPND  26 MOL_ID: 5;                                                           
 COMPND  27 MOLECULE: TRANSLATION INITIATION FACTOR EIF-2B SUBUNIT GAMMA;        
-"COMPND  28 CHAIN: I, J;                                                         "
-"COMPND  29 SYNONYM: GCD COMPLEX SUBUNIT GCD1,GUANINE NUCLEOTIDE EXCHANGE FACTOR "
-"COMPND  30 SUBUNIT GCD1,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT GAMMA;           "
+COMPND  28 CHAIN: I, J;                                                         
+COMPND  29 SYNONYM: GCD COMPLEX SUBUNIT GCD1,GUANINE NUCLEOTIDE EXCHANGE FACTOR 
+COMPND  30 SUBUNIT GCD1,EIF-2B GDP-GTP EXCHANGE FACTOR SUBUNIT GAMMA;           
 COMPND  31 ENGINEERED: YES;                                                     
 COMPND  32 MOL_ID: 6;                                                           
 COMPND  33 MOLECULE: EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT ALPHA;  
-"COMPND  34 CHAIN: K, L;                                                         "
+COMPND  34 CHAIN: K, L;                                                         
 COMPND  35 SYNONYM: EIF-2-ALPHA;                                                
 COMPND  36 ENGINEERED: YES;                                                     
 COMPND  37 MUTATION: YES;                                                       
 COMPND  38 MOL_ID: 7;                                                           
 COMPND  39 MOLECULE: EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT BETA;   
-"COMPND  40 CHAIN: M, N;                                                         "
+COMPND  40 CHAIN: M, N;                                                         
 COMPND  41 SYNONYM: EIF-2-BETA;                                                 
 COMPND  42 ENGINEERED: YES;                                                     
 COMPND  43 MOL_ID: 8;                                                           
 COMPND  44 MOLECULE: EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT GAMMA;  
-"COMPND  45 CHAIN: O, P;                                                         "
+COMPND  45 CHAIN: O, P;                                                         
 COMPND  46 SYNONYM: EIF-2-GAMMA;                                                
 COMPND  47 ENGINEERED: YES                                                      
 SOURCE    MOL_ID: 1;                                                            
 SOURCE   2 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE   3 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE   4 ORGANISM_TAXID: 559292;                                              
-"SOURCE   5 GENE: GCN3, AAS2, TIF221, YKR026C;                                   "
+SOURCE   5 GENE: GCN3, AAS2, TIF221, YKR026C;                                   
 SOURCE   6 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE   7 EXPRESSION_SYSTEM_TAXID: 4932;                                       
 SOURCE   8 MOL_ID: 2;                                                           
 SOURCE   9 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE  10 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE  11 ORGANISM_TAXID: 559292;                                              
-"SOURCE  12 GENE: GCD2, TIF224, YGR083C;                                         "
+SOURCE  12 GENE: GCD2, TIF224, YGR083C;                                         
 SOURCE  13 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE  14 EXPRESSION_SYSTEM_TAXID: 4932;                                       
 SOURCE  15 MOL_ID: 3;                                                           
 SOURCE  16 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE  17 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE  18 ORGANISM_TAXID: 559292;                                              
-"SOURCE  19 GENE: GCD7, TIF222, YLR291C, L8003.17;                               "
+SOURCE  19 GENE: GCD7, TIF222, YLR291C, L8003.17;                               
 SOURCE  20 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE  21 EXPRESSION_SYSTEM_TAXID: 4932;                                       
 SOURCE  22 MOL_ID: 4;                                                           
 SOURCE  23 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE  24 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE  25 ORGANISM_TAXID: 559292;                                              
-"SOURCE  26 GENE: GCD6, TIF225, YDR211W, YD8142.12, YD8142B.03;                  "
+SOURCE  26 GENE: GCD6, TIF225, YDR211W, YD8142.12, YD8142B.03;                  
 SOURCE  27 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE  28 EXPRESSION_SYSTEM_TAXID: 4932;                                       
 SOURCE  29 MOL_ID: 5;                                                           
 SOURCE  30 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE  31 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE  32 ORGANISM_TAXID: 559292;                                              
-"SOURCE  33 GENE: GCD1, TIF223, TRA3, YOR260W;                                   "
+SOURCE  33 GENE: GCD1, TIF223, TRA3, YOR260W;                                   
 SOURCE  34 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE  35 EXPRESSION_SYSTEM_TAXID: 4932;                                       
 SOURCE  36 MOL_ID: 6;                                                           
 SOURCE  37 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE  38 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE  39 ORGANISM_TAXID: 559292;                                              
-"SOURCE  40 GENE: SUI2, TIF211, YJR007W, J1429;                                  "
+SOURCE  40 GENE: SUI2, TIF211, YJR007W, J1429;                                  
 SOURCE  41 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE  42 EXPRESSION_SYSTEM_TAXID: 4932;                                       
 SOURCE  43 MOL_ID: 7;                                                           
 SOURCE  44 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE  45 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE  46 ORGANISM_TAXID: 559292;                                              
-"SOURCE  47 GENE: SUI3, TIF212, YPL237W;                                         "
+SOURCE  47 GENE: SUI3, TIF212, YPL237W;                                         
 SOURCE  48 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE  49 EXPRESSION_SYSTEM_TAXID: 4932;                                       
 SOURCE  50 MOL_ID: 8;                                                           
 SOURCE  51 ORGANISM_SCIENTIFIC: SACCHAROMYCES CEREVISIAE S288C;                 
 SOURCE  52 ORGANISM_COMMON: BAKER'S YEAST;                                      
 SOURCE  53 ORGANISM_TAXID: 559292;                                              
-"SOURCE  54 GENE: GCD11, TIF213, YER025W;                                        "
+SOURCE  54 GENE: GCD11, TIF213, YER025W;                                        
 SOURCE  55 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
 SOURCE  56 EXPRESSION_SYSTEM_TAXID: 4932                                        
 KEYWDS    TRANSLATIONAL CONTROL EIF2 PHOSPHORYLATION INTEGRATED STRESS RESPONSE 
-"KEYWDS   2 EIF2B TRANSLATION, TRANSLATION                                       "
+KEYWDS   2 EIF2B TRANSLATION, TRANSLATION                                       
 EXPDTA    ELECTRON MICROSCOPY                                                   
-"AUTHOR    T.ADOMAVICIUS,A.M.ROSEMAN,G.D.PAVITT                                  "
+AUTHOR    T.ADOMAVICIUS,A.M.ROSEMAN,G.D.PAVITT                                  
+REVDAT   4   06-NOV-24 6I3M    1       REMARK                                   
 REVDAT   3   06-NOV-19 6I3M    1       REMARK                                   
 REVDAT   2   19-JUN-19 6I3M    1       JRNL                                     
 REVDAT   1   22-MAY-19 6I3M    0                                                
-"JRNL        AUTH   T.ADOMAVICIUS,M.GUAITA,Y.ZHOU,M.D.JENNINGS,Z.LATIF,          "
-"JRNL        AUTH 2 A.M.ROSEMAN,G.D.PAVITT                                       "
+JRNL        AUTH   T.ADOMAVICIUS,M.GUAITA,Y.ZHOU,M.D.JENNINGS,Z.LATIF,          
+JRNL        AUTH 2 A.M.ROSEMAN,G.D.PAVITT                                       
 JRNL        TITL   THE STRUCTURAL BASIS OF TRANSLATIONAL CONTROL BY EIF2        
 JRNL        TITL 2 PHOSPHORYLATION.                                             
 JRNL        REF    NAT COMMUN                    V.  10  2136 2019              
@@ -120,7 +121,7 @@ JRNL        PMID   31086188
 JRNL        DOI    10.1038/S41467-019-10167-3                                   
 REMARK   1                                                                      
 REMARK   1 REFERENCE 1                                                          
-"REMARK   1  AUTH   M.D.JENNINGS,C.J.KERSHAW,T.ADOMAVICIUS,G.D.PAVITT            "
+REMARK   1  AUTH   M.D.JENNINGS,C.J.KERSHAW,T.ADOMAVICIUS,G.D.PAVITT            
 REMARK   1  TITL   FAIL-SAFE CONTROL OF TRANSLATION INITIATION BY DISSOCIATION  
 REMARK   1  TITL 2 OF EIF2 ALPHA PHOSPHORYLATED TERNARY COMPLEXES.              
 REMARK   1  REF    ELIFE                         V.   6       2017              
@@ -131,9 +132,9 @@ REMARK   2
 REMARK   2 RESOLUTION.    3.93 ANGSTROMS.                                       
 REMARK   3                                                                      
 REMARK   3 REFINEMENT.                                                          
-"REMARK   3   SOFTWARE PACKAGES      : RELION, EPU, GCTF, MODELLER, UCSF         "
-"REMARK   3                            CHIMERA, COOT, RELION, RELION, RELION,    "
-"REMARK   3                            RELION, PHENIX, UCSF CHIMERA              "
+REMARK   3   SOFTWARE PACKAGES      : RELION, EPU, GCTF, MODELLER, UCSF         
+REMARK   3                            CHIMERA, COOT, RELION, RELION, RELION,    
+REMARK   3                            RELION, PHENIX, UCSF CHIMERA              
 REMARK   3   RECONSTRUCTION SCHEMA  : NULL                                      
 REMARK   3                                                                      
 REMARK   3 EM MAP-MODEL FITTING AND REFINEMENT                                  
@@ -145,8 +146,8 @@ REMARK   3   OVERALL ANISOTROPIC B VALUE  : NULL
 REMARK   3                                                                      
 REMARK   3 FITTING PROCEDURE : MODELLER WAS USED TO BUILD HOMOLOGY MODEL OF     
 REMARK   3  S. CEREVISIAE EIF2B STRUCTURE BASED ON S. POMBE CRYSTAL             
-"REMARK   3  STRUCTURE. SUBUNITS OF THE HOMOLOGY MODEL, ALONG WITH EIF2 ALPHA    "
-"REMARK   3  DOMAINS 1 AND 2, WERE THEN RIGID BODY FITTED INTO OUR MAP USING     "
+REMARK   3  STRUCTURE. SUBUNITS OF THE HOMOLOGY MODEL, ALONG WITH EIF2 ALPHA    
+REMARK   3  DOMAINS 1 AND 2, WERE THEN RIGID BODY FITTED INTO OUR MAP USING     
 REMARK   3  UCSF CHIMERA. THE MODEL THEN WAS REFINED USING PHENIX AND           
 REMARK   3  MANUALLY ADJUSTED IN COOT.                                          
 REMARK   3                                                                      
@@ -162,7 +163,7 @@ REMARK   3 EM RECONSTRUCTION MAGNIFICATION CALIBRATION: NULL
 REMARK   3                                                                      
 REMARK   3 OTHER DETAILS: NULL                                                  
 REMARK   4                                                                      
-"REMARK   4 6I3M COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         "
+REMARK   4 6I3M COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
 REMARK 100                                                                      
 REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY PDBE ON 06-NOV-18.                  
 REMARK 100 THE DEPOSITION ID IS D_1200012687.                                   
@@ -178,13 +179,13 @@ REMARK 245   NAME OF SAMPLE                 : COMPLEX OF TRANSLATION
 REMARK 245                                    INITIATION FACTORS EIF2 AND       
 REMARK 245                                    EIF2B                             
 REMARK 245   SAMPLE CONCENTRATION (MG ML-1) : 0.25                              
-"REMARK 245   SAMPLE SUPPORT DETAILS         : ULTRA-THIN CARBON SUPPORT FILM,   "
+REMARK 245   SAMPLE SUPPORT DETAILS         : ULTRA-THIN CARBON SUPPORT FILM,   
 REMARK 245                                    3NM - ON LACEY CARBON GRIDS       
 REMARK 245                                    FROM AGAR SCIENTIFIC WERE USED    
 REMARK 245                                    FOR 35 DEGREE TILTED DATA         
 REMARK 245                                    COLLECTION. FOR ZERO TILT DATA    
-"REMARK 245                                    COLLECTION, 200 MESH AU           "
-"REMARK 245                                    QUANTIFOIL, R2/2 GRIDS WERE       "
+REMARK 245                                    COLLECTION, 200 MESH AU           
+REMARK 245                                    QUANTIFOIL, R2/2 GRIDS WERE       
 REMARK 245                                    USED.                             
 REMARK 245   SAMPLE VITRIFICATION DETAILS   : BLOT FOR 2 SECONDS BEFORE         
 REMARK 245                                    PLUNGING                          
@@ -204,7 +205,7 @@ REMARK 245   MINIMUM TILT ANGLE (DEGREES)      : NULL
 REMARK 245   MAXIMUM TILT ANGLE (DEGREES)      : NULL                           
 REMARK 245   NOMINAL CS                        : 2.70                           
 REMARK 245   IMAGING MODE                      : BRIGHT FIELD                   
-REMARK 245   ELECTRON DOSE (ELECTRONS NM**-2)  : 40.00                          
+REMARK 245   ELECTRON DOSE (ELECTRONS NM**-2)  : 4000.00                        
 REMARK 245   ILLUMINATION MODE                 : FLOOD BEAM                     
 REMARK 245   NOMINAL MAGNIFICATION             : NULL                           
 REMARK 245   CALIBRATED MAGNIFICATION          : 37313                          
@@ -215,7 +216,7 @@ REMARK 247
 REMARK 247 ELECTRON MICROSCOPY                                                  
 REMARK 247  THE COORDINATES IN THIS ENTRY WERE GENERATED FROM ELECTRON          
 REMARK 247  MICROSCOPY DATA. PROTEIN DATA BANK CONVENTIONS REQUIRE              
-"REMARK 247  THAT CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES           "
+REMARK 247  THAT CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES           
 REMARK 247  ON THESE RECORDS ARE MEANINGLESS EXCEPT FOR THE CALCULATION         
 REMARK 247  OF THE STRUCTURE FACTORS.                                           
 REMARK 300                                                                      
@@ -233,8 +234,8 @@ REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.
 REMARK 350                                                                      
 REMARK 350 BIOMOLECULE: 1                                                       
 REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: HEXADECAMERIC                     
-"REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, C, D, E, G, I, J, B, H, F,         "
-"REMARK 350                    AND CHAINS: K, M, O, L, N, P                      "
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, C, D, E, G, I, J, B, H, F,         
+REMARK 350                    AND CHAINS: K, M, O, L, N, P                      
 REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
 REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
 REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
@@ -3067,9 +3068,9 @@ REMARK 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN
 REMARK 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
 REMARK 500                                                                      
 REMARK 500 STANDARD TABLE:                                                      
-"REMARK 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              "
+REMARK 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              
 REMARK 500                                                                      
-"REMARK 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        "
+REMARK 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
 REMARK 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
 REMARK 500                                                                      
 REMARK 500  M RES CSSEQI ATM1   ATM2   ATM3                                     
@@ -3088,10 +3089,10 @@ REMARK 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;
 REMARK 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
 REMARK 500                                                                      
 REMARK 500 STANDARD TABLE:                                                      
-"REMARK 500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)                    "
+REMARK 500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)                    
 REMARK 500                                                                      
 REMARK 500 EXPECTED VALUES: GJ KLEYWEGT AND TA JONES (1996). PHI/PSI-           
-"REMARK 500 CHOLOGY: RAMACHANDRAN REVISITED. STRUCTURE 4, 1395 - 1400            "
+REMARK 500 CHOLOGY: RAMACHANDRAN REVISITED. STRUCTURE 4, 1395 - 1400            
 REMARK 500                                                                      
 REMARK 500  M RES CSSEQI        PSI       PHI                                   
 REMARK 500    THR A   9      -39.31   -130.01                                   
@@ -3150,10 +3151,10 @@ REMARK 500
 REMARK 500 REMARK: NULL                                                         
 REMARK 500                                                                      
 REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
-"REMARK 500 SUBTOPIC: NON-CIS, NON-TRANS                                         "
+REMARK 500 SUBTOPIC: NON-CIS, NON-TRANS                                         
 REMARK 500                                                                      
 REMARK 500 THE FOLLOWING PEPTIDE BONDS DEVIATE SIGNIFICANTLY FROM BOTH          
-"REMARK 500 CIS AND TRANS CONFORMATION.  CIS BONDS, IF ANY, ARE LISTED           "
+REMARK 500 CIS AND TRANS CONFORMATION.  CIS BONDS, IF ANY, ARE LISTED           
 REMARK 500 ON CISPEP RECORDS.  TRANS IS DEFINED AS 180 +/- 30 AND               
 REMARK 500 CIS IS DEFINED AS 0 +/- 30 DEGREES.                                  
 REMARK 500                                 MODEL     OMEGA                      
@@ -3168,7 +3169,7 @@ REMARK 500 REMARK: NULL
 REMARK 900                                                                      
 REMARK 900 RELATED ENTRIES                                                      
 REMARK 900 RELATED ID: EMD-4404   RELATED DB: EMDB                              
-"REMARK 900 EIF2B:EIF2 COMPLEX, PHOSPHORYLATED ON EIF2 ALPHA SERINE 52.          "
+REMARK 900 EIF2B:EIF2 COMPLEX, PHOSPHORYLATED ON EIF2 ALPHA SERINE 52.          
 DBREF  6I3M A    1   305  UNP    P14741   EI2BA_YEAST      1    305             
 DBREF  6I3M C    1   651  UNP    P12754   EI2BD_YEAST      1    651             
 DBREF  6I3M D    1   651  UNP    P12754   EI2BD_YEAST      1    651             
