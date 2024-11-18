@@ -36,11 +36,11 @@ import re
 from typing import List, Tuple
 
 
-def find_long_x_sequences(text) -> List[Tuple[int, int, int]]:
+def find_long_x_sequences(text) -> List[Tuple[int, int]]:
     # Find all sequences of 'X' characters
     x_sequences = re.finditer(r'X+', text)
     # Filter for sequences with length greater than 100 and store their positions and lengths
-    result = [(match.start(), match.end(), match.end() - match.start()) for match in x_sequences if
+    result = [(match.start(), match.end()) for match in x_sequences if
               (match.end() - match.start()) > 100]
     return result
 
@@ -54,28 +54,28 @@ def merge_exi_and_full_seq_into_subunit_info(experimental: Dict[str, str], full_
             subunit_name = chain_id + "EXI"
             subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id], start_res=1,
                                                       sequence=sequence)
-        chain_num = 1
+        subunit_num = 1
         start_index = 0
         for hole in missing_subunits:
             # before hole, if there is sequence:
             if hole[0] != 0:
-                subunit_name = chain_id + str(chain_num) + "EXI"
+                subunit_name = chain_id + str(subunit_num) + "EXI"
                 subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
                                                           start_res=start_index + 1,  # base 1?
                                                           sequence=sequence[start_index:hole[0]])
-                chain_num += 1
+                subunit_num += 1
             # filling hole:
-            subunit_name = chain_id + str(chain_num) + "MIS"
+            subunit_name = chain_id + str(subunit_num) + "MIS"
             subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
                                                       start_res=hole[0] + 1,  # base 1?
-                                                      sequence=full_seq[chain_id][hole[0]:hole[2]])
-            chain_num += 1
+                                                      sequence=full_seq[chain_id][hole[0]:hole[1]])
+            subunit_num += 1
             if hole == missing_subunits[-1]:  # if we are in the last hole
-                if hole[2] < len(sequence):
-                    subunit_name = chain_id + str(chain_num) + "EXI"
+                if hole[1] < len(sequence):
+                    subunit_name = chain_id + str(subunit_num) + "EXI"
                     subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
-                                                              start_res=hole[2] + 1,  # base 1?
-                                                              sequence=sequence[hole[2]:])
+                                                              start_res=hole[1] + 1,  # base 1?
+                                                              sequence=sequence[hole[1]:])
     return subunits_info
 
 
