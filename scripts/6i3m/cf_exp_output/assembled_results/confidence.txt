@@ -1,0 +1,3 @@
+/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_exp_output/assembled_results/output_clustered_0.pdb 88.7422
+/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_exp_output/assembled_results/output_clustered_1.pdb 88.7941
+/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_exp_output/assembled_results/output_clustered_2.pdb 88.7425
