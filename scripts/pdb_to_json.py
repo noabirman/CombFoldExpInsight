@@ -4,6 +4,7 @@ from typing import Dict
 import libs.utils_classes
 from run_on_pdbs import get_chain_to_seq
 from libs.utils_classes import SubunitInfo, save_subunits_info  # Make sure SubunitInfo is available
+from Bio.PDB import PDBParser, PDBIO
 
 
 def create_subunit_info_from_chain_seq(chain_to_seq: Dict[str, str]) -> Dict[str, SubunitInfo]:
@@ -78,6 +79,33 @@ def merge_exi_and_full_seq_into_subunit_info(experimental: Dict[str, str], full_
                                                               sequence=sequence[hole[1]:])
     return subunits_info
 
+
+def set_b_factor_to_100(pdb_path: str):
+    # Parse the PDB file
+    parser = PDBParser()
+    pdb_id = os.path.splitext(os.path.basename(pdb_path))[0]
+    structure = parser.get_structure(pdb_id, pdb_path)
+
+    # Modify the B-factor of all atoms
+    for atom in structure.get_atoms():
+        atom.bfactor = 100.0  # Set a new B-factor value
+
+    # Save the modified structure
+    io = PDBIO()
+    io.set_structure(structure)
+    io.save(pdb_id+"_b_factor_100.pdb")
+
+
+def update_b_factors_preserve_metadata(input_pdb: str, output_pdb: str, new_b_factor: float = 100.0) -> None:
+    with open(input_pdb, "r") as infile, open(output_pdb, "w") as outfile:
+        for line in infile:
+            if line.startswith("ATOM") or line.startswith("HETATM"):
+                # Update the B-factor column (columns 61-66 in the PDB format)
+                updated_line = line[:60] + f"{new_b_factor:6.2f}" + line[66:]
+                outfile.write(updated_line)
+            else:
+                # Write metadata and other lines unchanged
+                outfile.write(line)
 
 if __name__ == '__main__':
     if len(sys.argv) == 3:
