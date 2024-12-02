@@ -177,7 +177,7 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         # first part: take a pdb file and make subunits.json from the experimental data with XXXX where missing location of Amino Acids
         pdb_path, output_path = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
-        # chain_to_seq = get_chain_to_seq(pdb_path, use_seqres=False)  # Corrected use_seqres
+        chain_to_seq = get_chain_to_seq(pdb_path, use_seqres=False)  # Corrected use_seqres
         # subunits_info = create_subunit_info_from_chain_seq(chain_to_seq)
         # save_subunits_info(subunits_info,
         #                    os.path.join(output_path, 'subunits.json'))  # Corrected sub_units -> subunits_info
