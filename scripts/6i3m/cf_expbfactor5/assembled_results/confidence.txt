@@ -1,5 +1,0 @@
-/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_expbfactor5/assembled_results/output_clustered_0.pdb 98.6023
-/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_expbfactor5/assembled_results/output_clustered_1.pdb 98.6023
-/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_expbfactor5/assembled_results/output_clustered_2.pdb 98.5713
-/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_expbfactor5/assembled_results/output_clustered_3.pdb 98.6147
-/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_expbfactor5/assembled_results/output_clustered_4.pdb 98.6147
