@@ -77,8 +77,7 @@ def find_long_x_sequences(sequence) -> List[Tuple[int, int]]:
     return result
 
 
-def merge_exi_and_full_seq_into_subunit_info(experimental: Dict[str, str], full_seq: Dict[str, str]) -> Dict[
-    str, SubunitInfo]:
+def merge_exi_and_full_seq_into_subunit_info(experimental: Dict[str, str], full_seq: Dict[str, str]) -> Tuple[SubunitsInfo, SubunitsInfo]:
     """
     Merge experimental sequences with full sequences to create SubunitInfo objects.
 
@@ -89,15 +88,18 @@ def merge_exi_and_full_seq_into_subunit_info(experimental: Dict[str, str], full_
     Returns:
         Dict[str, SubunitInfo]: A dictionary mapping subunit names to SubunitInfo objects.
     """
-    subunits_info = {}
+    merged_subunits_info = {}
+    exi_subunits_info = {}
     for chain_id, sequence in experimental.items():
         missing_subunits = find_long_x_sequences(sequence) # Find long 'X' sequences
         if not missing_subunits:  # in case no holes, keep the original seq and chain_id
             subunit_name = chain_id + "EXI" # EXI for existing
             start_res_index = get_first_non_x_index(sequence) + 1 # base 1
-            subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
+            new_subunit = SubunitInfo(name=subunit_name, chain_names=[chain_id],
                                                       start_res=start_res_index,
                                                       sequence=sequence[start_res_index:])
+            exi_subunits_info[subunit_name] = new_subunit
+            merged_subunits_info[subunit_name] = new_subunit
         # if there are holes, we need to create new subunits
         subunit_num = 1
         start_index = 0
@@ -105,24 +107,28 @@ def merge_exi_and_full_seq_into_subunit_info(experimental: Dict[str, str], full_
             if hole[0] != 0:  # if there is a sequence before the hole
                 subunit_name = chain_id + str(subunit_num) + "EXI"
                 start_res_index = get_first_non_x_index(sequence[start_index:hole[0]]) + start_index + 1 # base 1
-                subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
+                new_subunit = SubunitInfo(name=subunit_name, chain_names=[chain_id],
                                                           start_res=start_res_index + 1,  # base 1
                                                           sequence=sequence[start_res_index:hole[0]])
+                exi_subunits_info[subunit_name] = new_subunit
+                merged_subunits_info[subunit_name] = new_subunit
                 subunit_num += 1
             # filling hole:
             subunit_name = chain_id + str(subunit_num) + "MIS"
-            subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
+            merged_subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
                                                       start_res=hole[0] + 1,  # base 1
                                                       sequence=full_seq[chain_id][hole[0]:hole[1]])
             subunit_num += 1
             if hole == missing_subunits[-1]:  # if we are in the last hole
                 if hole[1] < len(sequence):
                     subunit_name = chain_id + str(subunit_num) + "EXI"
-                    subunits_info[subunit_name] = SubunitInfo(name=subunit_name, chain_names=[chain_id],
+                    new_subunit = SubunitInfo(name=subunit_name, chain_names=[chain_id],
                                                               start_res=hole[1] + 1,  # base 1
                                                               sequence=sequence[hole[1]:])
+                    exi_subunits_info[subunit_name] = new_subunit
+                    merged_subunits_info[subunit_name] = new_subunit
             start_index = hole[1]
-    return subunits_info
+    return merged_subunits_info, exi_subunits_info
 
 
 def set_b_factor_to_100(pdb_path: str):
@@ -171,10 +177,10 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         # first part: take a pdb file and make subunits.json from the experimental data with XXXX where missing location of Amino Acids
         pdb_path, output_path = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
-        chain_to_seq = get_chain_to_seq(pdb_path, use_seqres=False)  # Corrected use_seqres
-        subunits_info = create_subunit_info_from_chain_seq(chain_to_seq)
-        save_subunits_info(subunits_info,
-                           os.path.join(output_path, 'subunits.json'))  # Corrected sub_units -> subunits_info
+        # chain_to_seq = get_chain_to_seq(pdb_path, use_seqres=False)  # Corrected use_seqres
+        # subunits_info = create_subunit_info_from_chain_seq(chain_to_seq)
+        # save_subunits_info(subunits_info,
+        #                    os.path.join(output_path, 'subunits.json'))  # Corrected sub_units -> subunits_info
         # Second Part: define new subunits where there is a sequence of more than 100 X's and replace the X's with the known sequence
         full_known_seq = get_chain_to_seq(pdb_path, use_seqres=True)  # now use_seqres
         # Remove the '6I3M:' prefix from chain IDs in full_known_seq
@@ -182,12 +188,13 @@ if __name__ == '__main__':
             chain_id.split(":")[1]: seq for chain_id, seq in full_known_seq.items()
         }
         # exp_seq_after_fiiling = add_missing_subunits_seq(chain_to_seq, cleaned_full_known_seq)
-        merged_subunits_info = merge_exi_and_full_seq_into_subunit_info(chain_to_seq, cleaned_full_known_seq)
+        merged_subunits_info, exi_subunits_info = merge_exi_and_full_seq_into_subunit_info(chain_to_seq, cleaned_full_known_seq)
 
         # check if filling was good
         # print("Key-Value pairs after filling:", exp_seq_after_fiiling.items())
 
         # combined_subunits_info = create_subunit_info_from_chain_seq(exp_seq_after_fiiling)
         save_subunits_info(merged_subunits_info, os.path.join(output_path, 'merged_subunits.json'))
+        save_subunits_info(exi_subunits_info, os.path.join(output_path, 'exi_subunits.json'))
     else:
         print("usage: <script> pdb_path, output_path")
