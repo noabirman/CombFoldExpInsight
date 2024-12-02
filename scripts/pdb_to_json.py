@@ -367,8 +367,13 @@ if __name__ == '__main__':
         save_subunits_info(merged_subunits_info, os.path.join(json_output_path, 'merged_subunits.json'))
         save_subunits_info(exi_subunits_info, os.path.join(json_output_path, 'exi_subunits.json'))
 
-        # Update B-factors and save the modified PDB file in the output folder
-        output_pdb = os.path.join(output_path, os.path.basename(pdb_path) + "_b_factor_100.pdb")
+        # Create output directory for the modified PDB file
+        pdb_output_path = os.path.join(output_path, 'pdb_files')
+        os.makedirs(pdb_output_path, exist_ok=True)
+
+        # Update B-factors and save the modified PDB file in the new folder without the original file extension
+        pdb_basename = os.path.splitext(os.path.basename(pdb_path))[0]
+        output_pdb = os.path.join(pdb_output_path, pdb_basename + "_b_factor_100.pdb")
         update_b_factors_preserve_metadata(pdb_path, output_pdb)
     else:
         print("usage: <script> pdb_path output_path")
