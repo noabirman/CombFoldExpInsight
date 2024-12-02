@@ -349,8 +349,8 @@ def update_b_factors_preserve_metadata(input_pdb: str, output_pdb: str, new_b_fa
 
 
 if __name__ == '__main__':
-    if len(sys.argv) == 3:
-        pdb_path, output_path = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
+    if len(sys.argv) == 4:
+        pdb_path, output_path, af_output_path = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2]), os.path.abspath(sys.argv[3])
 
         # Create output directory for JSON files
         json_output_path = os.path.join(output_path, 'json_files')
@@ -375,5 +375,9 @@ if __name__ == '__main__':
         pdb_basename = os.path.splitext(os.path.basename(pdb_path))[0]
         output_pdb = os.path.join(pdb_output_path, pdb_basename + "_b_factor_100.pdb")
         update_b_factors_preserve_metadata(pdb_path, output_pdb)
+
+        # Save the modified PDB file to the AF_output folder
+        af_output_pdb = os.path.join(af_output_path, pdb_basename + "_b_factor_100.pdb")
+        update_b_factors_preserve_metadata(pdb_path, af_output_pdb)
     else:
-        print("usage: <script> pdb_path output_path")
+        print("usage: <script> pdb_path output_path af_output_path")
