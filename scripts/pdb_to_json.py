@@ -1,12 +1,11 @@
 import os
 import sys
 from typing import Dict
-from run_on_pdbs import get_chain_to_seq
 from libs.utils_classes import SubunitInfo, save_subunits_info, SubunitsInfo  # Make sure SubunitInfo is available
 from Bio.PDB import PDBParser, PDBIO
 import re
 from typing import List, Tuple
-
+from run_on_pdbs import run_on_pdbs_folder
 
 def get_first_non_x_index(sequence: str) -> int:
     """
@@ -356,16 +355,19 @@ if __name__ == '__main__':
         json_output_path = os.path.join(output_path, 'json_files')
         os.makedirs(json_output_path, exist_ok=True)
 
-        partial_seq = get_chain_to_seq(pdb_path, use_seqres=False)  # don't use_seqres - use ATOM records
-        full_known_seq = get_chain_to_seq(pdb_path, use_seqres=True)  # now use_seqres - use SEQRES records
+        # Get the chain sequences from the PDB file
+        partial_seq = get_chain_to_seq(pdb_path, use_seqres=False)
+        full_known_seq = get_chain_to_seq(pdb_path, use_seqres=True)
 
         # Remove the '6I3M:' prefix from chain IDs in full_known_seq
         cleaned_full_known_seq = {chain_id.split(":")[1]: seq for chain_id, seq in full_known_seq.items()}
         # Create SubunitInfo objects from the chain sequences
         merged_subunits_info, exi_subunits_info = merge_exi_and_full_seq_into_subunit_info(partial_seq, cleaned_full_known_seq)
         # Save the SubunitInfo objects to JSON files
-        save_subunits_info(merged_subunits_info, os.path.join(json_output_path, 'merged_subunits.json'))
-        save_subunits_info(exi_subunits_info, os.path.join(json_output_path, 'exi_subunits.json'))
+        exi_subunits_path = os.path.join(json_output_path, 'exi_subunits.json')
+        merged_subunits_path = os.path.join(json_output_path, 'merged_subunits.json')
+        save_subunits_info(merged_subunits_info, merged_subunits_path)
+        save_subunits_info(exi_subunits_info, exi_subunits_path)
 
         # Create output directory for the modified PDB file
         pdb_output_path = os.path.join(output_path, 'pdb_files')
@@ -378,6 +380,12 @@ if __name__ == '__main__':
 
         # Save the modified PDB file to the AF_output folder
         af_output_pdb = os.path.join(af_output_path, pdb_basename + "_b_factor_100.pdb")
-        update_b_factors_preserve_metadata(pdb_path, af_output_pdb)
+        update_b_factors_preserve_metadata(pdb_path, output_pdb)
+
+
+        # run combfold on the modified PDB file
+        combfold_only_exi_path = os.path.join(output_path, 'combfold_only_exi')
+        run_on_pdbs_folder(exi_subunits_path, pdb_output_path,combfold_only_exi_path)
+
     else:
         print("usage: <script> pdb_path output_path af_output_path")
