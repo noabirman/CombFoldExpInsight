@@ -1,8 +1,8 @@
 import os
 import sys
+import shutil
 from typing import Dict
 from libs.utils_classes import SubunitInfo, save_subunits_info, SubunitsInfo  # Make sure SubunitInfo is available
-from Bio.PDB import PDBParser, PDBIO
 import re
 from typing import List, Tuple
 from run_on_pdbs import run_on_pdbs_folder
@@ -346,6 +346,36 @@ def update_b_factors_preserve_metadata(input_pdb: str, output_pdb: str, new_b_fa
                 # Write metadata and other lines unchanged
                 outfile.write(line)
 
+def copy_transformation_files(exi_transformations_path: str, second_run_transformations_path: str) -> None:
+    """
+    Copy all files from the EXI transformations directory to the second run transformations directory.
+
+    Args:
+        exi_transformations_path (str): Path to the EXI transformations directory.
+        second_run_transformations_path (str): Path to the second run transformations directory.
+    """
+    for filename in os.listdir(exi_transformations_path):
+        src_file = os.path.join(exi_transformations_path, filename)
+        dst_file = os.path.join(second_run_transformations_path, filename)
+        shutil.copy(src_file, dst_file)
+    print(f"Copied all transformation files from {exi_transformations_path} to {second_run_transformations_path}")
+
+def update_chain_list(chain_list_path: str) -> None:
+    """
+    Update the chain.list file by adding '1' after each line containing 'EXI'.
+
+    Args:
+        chain_list_path (str): Path to the chain.list file.
+    """
+    with open(chain_list_path, "r") as file:
+        lines = file.readlines()
+
+    with open(chain_list_path, "w") as file:
+        for line in lines:
+            if "EXI" in line:
+                line = line.strip() + " 1\n"
+            file.write(line)
+    print(f"Updated chain.list at {chain_list_path}")
 
 if __name__ == '__main__':
     if len(sys.argv) == 4:
@@ -380,12 +410,22 @@ if __name__ == '__main__':
 
         # Save the modified PDB file to the AF_output folder
         af_output_pdb = os.path.join(af_output_path, pdb_basename + "_b_factor_100.pdb")
-        update_b_factors_preserve_metadata(pdb_path, output_pdb)
+        update_b_factors_preserve_metadata(pdb_path, af_output_pdb)
 
 
         # run combfold on the modified PDB file
         combfold_only_exi_path = os.path.join(output_path, 'combfold_only_exi')
         run_on_pdbs_folder(exi_subunits_path, pdb_output_path,combfold_only_exi_path)
+        # run combfold on  Alphafold models + experimental pdb
+        combfold_exi_rep_path = os.path.join(output_path, 'combfold_exi_rep')
+        run_on_pdbs_folder(merged_subunits_path, af_output_path, combfold_exi_rep_path)
+        # copy transformation files from combfold_only_exi to combfold_exi_rep
+        combfold_only_exi_transformations_path = os.path.join(combfold_only_exi_path,'_unified_representation', 'transformations')
+        combfold_exi_rep_transformations_path = os.path.join(combfold_exi_rep_path, '_unified_representation', 'transformations')
+        copy_transformation_files(combfold_only_exi_transformations_path, combfold_exi_rep_transformations_path)
+        # update chain.list file in combfold_exi_rep
+        chain_list_path = os.path.join(combfold_exi_rep_path, '_unified_representation', 'chain.list')
+        update_chain_list(chain_list_path)
 
     else:
         print("usage: <script> pdb_path output_path af_output_path")
