@@ -424,7 +424,7 @@ if __name__ == '__main__':
         combfold_exi_rep_transformations_path = os.path.join(combfold_exi_rep_path, '_unified_representation', 'transformations')
         copy_transformation_files(combfold_only_exi_transformations_path, combfold_exi_rep_transformations_path)
         # update chain.list file in combfold_exi_rep
-        chain_list_path = os.path.join(combfold_exi_rep_path, '_unified_representation', 'chain.list')
+        chain_list_path = os.path.join(combfold_exi_rep_path, '_unified_representation','assembly_output', 'chain.list')
         update_chain_list(chain_list_path)
 
     else:
