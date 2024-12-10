@@ -1,0 +1,1 @@
+SU1 Prot1 size1 SU2 Prot2 size2 Restraints
