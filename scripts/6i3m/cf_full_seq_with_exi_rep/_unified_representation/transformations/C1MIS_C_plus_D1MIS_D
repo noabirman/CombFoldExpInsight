@@ -1,0 +1,44 @@
+1 | 46.80524390243904 | 4.845e-07_4.845e-07_A_A_ptm_6I3M_CF_EF_unrelaxed_rank_1_model_3.pdb | 4.441e-16 -4.163e-16 -4.163e-16 0 0 0
+
+2 | 45.54008130081304 | 5.983_5.983_B_B_ptm_6I3M_AF_CF_unrelaxed_rank_1_model_3.pdb | 2.98e-08 0 2.98e-08 0 4.768e-07 4.768e-07
+
+3 | 44.96560975609759 | 17.43_17.43_A_A_ptm_6I3M_CF_MF_unrelaxed_rank_1_model_1.pdb | -3.725e-09 0 -7.451e-09 0 -4.768e-07 0
+
+4 | 43.11601626016258 | 13.78_13.78_A_A_ptm_6I3M_CF_IF_unrelaxed_rank_1_model_4.pdb | 1.49e-08 0 0 1.907e-06 9.537e-07 0
+
+5 | 43.09300813008129 | 10.18_10.18_C_C_ptm_6I3M_AF_AF_CF_unrelaxed_rank_1_model_3.pdb | -7.451e-09 0 0 0 -3.815e-06 4.768e-07
+
+6 | 40.57024390243906 | 12.45_12.45_A_A_ptm_6I3M_CF_KF_unrelaxed_rank_1_model_4.pdb | 1.49e-08 0 0 9.537e-07 -5.96e-08 0
+
+7 | 40.52422764227642 | 17.7_17.7_B_B_multimer_6I3M_CF_MF_unrelaxed_rank_1_model_4.pdb | 0 5.588e-09 7.451e-09 0 0 0
+
+8 | 40.43691056910569 | 11.45_11.45_A_A_ptm_6I3M_CF_OF_unrelaxed_rank_1_model_3.pdb | -2.98e-08 -2.98e-08 -2.235e-08 3.576e-07 0 0
+
+9 | 40.31634146341465 | 6.48_6.48_A_A_ptm_6I3M_CF_CF_unrelaxed_rank_1_model_4.pdb | 0 0 2.235e-08 0 -9.537e-07 -8.196e-08
+
+10 | 39.72947154471544 | 10.61_10.61_B_B_ptm_6I3M_CF_CF_unrelaxed_rank_1_model_4.pdb | -2.98e-08 -2.235e-08 -2.98e-08 4.768e-07 1.907e-06 -9.537e-07
+
+11 | 36.05715447154471 | 17.87_17.87_B_B_multimer_6I3M_CF_IF_unrelaxed_rank_1_model_3.pdb | 0 2.98e-08 1.49e-08 9.537e-07 0 0
+
+12 | 36.00069105691059 | 19.35_19.35_C_C_ptm_6I3M_AF_AF_CF_EF_unrelaxed_rank_1_model_3.pdb | -7.451e-09 0 7.451e-09 0 5.722e-06 1.907e-06
+
+13 | 34.889593495934946 | 16.41_16.41_B_B_multimer_6I3M_CF_EF_unrelaxed_rank_1_model_3.pdb | 2.98e-08 4.47e-08 0 0 9.537e-07 0
+
+14 | 32.95536585365854 | 18.22_18.22_C_C_multimer_6I3M_AF_CF_unrelaxed_rank_1_model_2.pdb | 3.353e-08 -1.49e-08 -2.98e-08 -1.192e-07 1.192e-07 1.192e-07
+
+15 | 32.73491869918698 | 17.65_17.65_A_A_ptm_6I3M_CF_GF_unrelaxed_rank_1_model_5.pdb | 0 0 0 -1.192e-07 0 1.431e-06
+
+16 | 31.867520325203238 | 21.54_21.54_B_B_multimer_6I3M_CF_KF_unrelaxed_rank_1_model_2.pdb | 2.98e-08 0 1.49e-08 0 0 0
+
+17 | 31.264878048780485 | 20.33_20.33_B_B_multimer_6I3M_CF_OF_unrelaxed_rank_1_model_3.pdb | 0 0 -2.98e-08 0 0 -9.537e-07
+
+18 | 30.156016260162602 | 24.34_24.34_D_D_multimer_6I3M_AF_AF_CF_EF_unrelaxed_rank_1_model_3.pdb | -5.96e-08 -2.002e-08 1.397e-09 4.768e-07 -9.537e-07 0
+
+19 | 29.580894308943094 | 13.96_13.96_B_B_multimer_6I3M_CF_GF_unrelaxed_rank_1_model_1.pdb | -7.451e-09 -2.98e-08 1.49e-08 9.537e-07 9.537e-07 0
+
+20 | 29.053008130081324 | 32.53_32.53_D_D_multimer_6I3M_AF_AF_CF_unrelaxed_rank_1_model_3.pdb | -7.451e-09 0 2.98e-08 -2.384e-07 -1.907e-06 -1.907e-06
+
+21 | 24.562032520325193 | 28.79_28.79_B_B_multimer_6I3M_CF_CF_unrelaxed_rank_1_model_4.pdb | 0 -2.98e-08 0 0 7.153e-07 -1.907e-06
+
+22 | 24.22926829268293 | 28.68_28.68_C_C_multimer_6I3M_CF_CF_unrelaxed_rank_1_model_4.pdb | -1.49e-08 -3.166e-08 -1.49e-08 -3.815e-06 -1.431e-06 -1.907e-06
+

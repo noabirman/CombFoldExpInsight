@@ -1,8 +1,8 @@
 import os
 import sys
-from pdb_to_json import update_chain_list
+from cf_exi_insight import update_chain_list
 
-from pdb_to_json import set_b_factor_to_100, update_b_factors_preserve_metadata
+from cf_exi_insight import set_b_factor_to_100, update_b_factors_preserve_metadata
 
 #a test for b_factor function
 if __name__ == '__main__':
