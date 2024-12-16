@@ -210,14 +210,8 @@ def cf_exi_only(output_path:str, pdb_path:str, af_output_path:str, exi_subunits_
     run_on_pdbs_folder(exi_subunits_path, pdb_output_path, result_path)
     return result_path
 
-
-#def cf_exi_ins(output_path:str, pdb_path:str, af_output_path:str, exi_subunits_path:str):
-if __name__ == '__main__':
-    if len(sys.argv) == 4:
-        pdb_path, output_path, af_output_path = os.path.abspath(sys.argv[1]), os.path.abspath(
-            sys.argv[2]), os.path.abspath(sys.argv[3])
-
-        # Create output directory for JSON files
+def run_cf_exi_insight( pdb_path:str, output_path:str, af_output_path:str):
+# Create output directory for JSON files
         json_output_path = os.path.join(output_path, 'json_files')
         os.makedirs(json_output_path, exist_ok=True)
 
@@ -256,6 +250,55 @@ if __name__ == '__main__':
         run_combfold(representative_subunits_path=rep_subunits_path, subunits_info=merged_subunits_info,
                      transformations_path=cf_full_seq_with_exi_rep_transformations_path,
                      crosslinks_path=None, output_path=comb_fold_exp_insight_path, subunits_group1=[*exi_subunits_info])
+
+
+
+#def cf_exi_ins(output_path:str, pdb_path:str, af_output_path:str, exi_subunits_path:str):
+if __name__ == '__main__':
+    if len(sys.argv) == 4:
+        pdb_path, output_path, af_output_path = os.path.abspath(sys.argv[1]), os.path.abspath(
+            sys.argv[2]), os.path.abspath(sys.argv[3])
+        run_cf_exi_insight(pdb_path, output_path, af_output_path)
+
+        # # Create output directory for JSON files
+        # json_output_path = os.path.join(output_path, 'json_files')
+        # os.makedirs(json_output_path, exist_ok=True)
+        #
+        # # Get the chain sequences from the PDB file
+        # partial_seq = get_chain_to_seq(pdb_path, use_seqres=False)
+        # full_known_seq = get_chain_to_seq(pdb_path, use_seqres=True)
+        #
+        # # Remove the '6I3M:' prefix from chain IDs in full_known_seq
+        # cleaned_full_known_seq = {chain_id.split(":")[1]: seq for chain_id, seq in full_known_seq.items()}
+        # # Create SubunitInfo objects from the chain sequences
+        # merged_subunits_info, exi_subunits_info = merge_exi_and_full_seq_into_subunit_info(partial_seq,
+        #                                                                                    cleaned_full_known_seq)
+        # # Save the SubunitInfo objects to JSON files
+        # exi_subunits_path = os.path.join(json_output_path, 'exi_subunits.json')
+        # merged_subunits_path = os.path.join(json_output_path, 'merged_subunits.json')
+        # save_subunits_info(merged_subunits_info, merged_subunits_path)
+        # save_subunits_info(exi_subunits_info, exi_subunits_path)
+        #
+        # #run combfold on and return the path to result
+        # cf_only_exi_path = cf_exi_only(output_path, pdb_path, af_output_path, exi_subunits_path)
+        #
+        # # run combfold on  Alphafold models + experimental pdb
+        # cf_full_seq_with_exi_rep_path = os.path.join(output_path, 'cf_full_seq_with_exi_rep')
+        # run_on_pdbs_folder(merged_subunits_path, af_output_path, cf_full_seq_with_exi_rep_path)
+        #
+        # # copy transformation files from cf_only_exi to cf_full_seq_with_exi_rep
+        # cf_only_exi_transformations_path = os.path.join(cf_only_exi_path, '_unified_representation',
+        #                                                 'transformations')
+        # cf_full_seq_with_exi_rep_transformations_path = os.path.join(cf_full_seq_with_exi_rep_path,
+        #                                                              '_unified_representation',
+        #                                                              'transformations')
+        # copy_transformation_files(cf_only_exi_transformations_path, cf_full_seq_with_exi_rep_transformations_path)
+        # # Assembly order: update chain.list file in cf_full_seq_with_exi_rep
+        # comb_fold_exp_insight_path = os.path.join(output_path, 'comb_fold_exp_insight')
+        # rep_subunits_path = os.path.join(cf_full_seq_with_exi_rep_path, '_unified_representation', 'assembly_output')
+        # run_combfold(representative_subunits_path=rep_subunits_path, subunits_info=merged_subunits_info,
+        #              transformations_path=cf_full_seq_with_exi_rep_transformations_path,
+        #              crosslinks_path=None, output_path=comb_fold_exp_insight_path, subunits_group1=[*exi_subunits_info])
 
     else:
         print("usage: <script> pdb_path output_path af_output_path")
