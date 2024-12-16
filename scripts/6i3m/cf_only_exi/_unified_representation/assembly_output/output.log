@@ -1,4 +1,4 @@
-/mnt/c/Users/tsori/Documents/CombFoldExpInsight/CombinatorialAssembler/CombinatorialAssembler.out chain.list /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/ 900 100 xlink_consts.txt -b 0.05 -t 80 
+/mnt/c/users/USER/Documents/CombFoldExpInsight/CombinatorialAssembler/CombinatorialAssembler.out chain.list /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/ 900 100 xlink_consts.txt -b 0.05 -t 80 
 Before process input
 PDBname AEXI_A.pdb:AEXI_A.pdb
 PDBname BEXI_B.pdb:BEXI_B.pdb
@@ -518,618 +518,618 @@ Done compute grid PEXI_P.pdb
 Fragment 0 chainId P range 98:518
 Max radius: 37.7438
  done reading BB PEXI_P.pdb
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_BEXI_B
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_C2EXI_C
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_C2EXI_C
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_D2EXI_D
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_D2EXI_D
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_EEXI_E
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_EEXI_E
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_FEXI_F
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_FEXI_F
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_GEXI_G
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_GEXI_G
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_HEXI_H
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_HEXI_H
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_KEXI_K
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_KEXI_K
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_LEXI_L
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_LEXI_L
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_C2EXI_C
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/AEXI_A_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_C2EXI_C
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_D2EXI_D
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_D2EXI_D
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_EEXI_E
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_EEXI_E
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_FEXI_F
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_FEXI_F
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_GEXI_G
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_GEXI_G
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_HEXI_H
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_HEXI_H
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_KEXI_K
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_KEXI_K
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_LEXI_L
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_LEXI_L
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_D2EXI_D
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/BEXI_B_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_D2EXI_D
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_EEXI_E
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_EEXI_E
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_FEXI_F
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_FEXI_F
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_GEXI_G
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_GEXI_G
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_HEXI_H
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_HEXI_H
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_IEXI_I
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_IEXI_I
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_JEXI_J
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_JEXI_J
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_KEXI_K
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_KEXI_K
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_LEXI_L
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_LEXI_L
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_EEXI_E
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/C2EXI_C_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_EEXI_E
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_FEXI_F
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_FEXI_F
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_GEXI_G
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_GEXI_G
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_HEXI_H
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_HEXI_H
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_IEXI_I
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_IEXI_I
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_JEXI_J
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_JEXI_J
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_KEXI_K
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_KEXI_K
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_LEXI_L
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_LEXI_L
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_FEXI_F
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/D2EXI_D_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_FEXI_F
 loaded score: 100
 loaded score: 100
 loaded score: 100
 loaded score: 100
-4 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_GEXI_G
+4 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_GEXI_G
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_HEXI_H
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_HEXI_H
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_GEXI_G
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/EEXI_E_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_GEXI_G
 loaded score: 100
 loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_HEXI_H
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_HEXI_H
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_IEXI_I
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_JEXI_J
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_IEXI_I
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_JEXI_J
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_JEXI_J
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_PEXI_P
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_LEXI_L
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_OEXI_O
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_PEXI_P
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_OEXI_O
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_PEXI_P
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_N2EXI_N
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_OEXI_O
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_PEXI_P
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_OEXI_O
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_OEXI_O
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_PEXI_P
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_PEXI_P
-loaded score: 100
-loaded score: 100
-2 transforms were read from file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_PEXI_P
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_AEXI_A
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_AEXI_A
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_BEXI_B
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_BEXI_B
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_C2EXI_C
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_C2EXI_C
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_D2EXI_D
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_D2EXI_D
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_EEXI_E
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_EEXI_E
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_FEXI_F
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_FEXI_F
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_GEXI_G
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_GEXI_G
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_HEXI_H
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_HEXI_H
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_IEXI_I
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_IEXI_I
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_JEXI_J
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_JEXI_J
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_KEXI_K
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_KEXI_K
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_LEXI_L
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_LEXI_L
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_M2EXI_M
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_M2EXI_M
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_N2EXI_N
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_N2EXI_N
-Opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_OEXI_O
-Problem opening transformation file /mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_OEXI_O
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_HEXI_H
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/FEXI_F_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_HEXI_H
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_IEXI_I
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_JEXI_J
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/GEXI_G_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_IEXI_I
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_JEXI_J
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/HEXI_H_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_JEXI_J
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/IEXI_I_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_PEXI_P
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/JEXI_J_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_LEXI_L
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_OEXI_O
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_PEXI_P
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/KEXI_K_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_OEXI_O
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_PEXI_P
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/LEXI_L_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_N2EXI_N
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_OEXI_O
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_PEXI_P
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/M2EXI_M_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_OEXI_O
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_OEXI_O
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_PEXI_P
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/N2EXI_N_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_PEXI_P
+loaded score: 100
+loaded score: 100
+2 transforms were read from file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/OEXI_O_plus_PEXI_P
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_AEXI_A
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_AEXI_A
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_BEXI_B
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_BEXI_B
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_C2EXI_C
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_C2EXI_C
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_D2EXI_D
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_D2EXI_D
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_EEXI_E
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_EEXI_E
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_FEXI_F
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_FEXI_F
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_GEXI_G
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_GEXI_G
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_HEXI_H
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_HEXI_H
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_IEXI_I
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_IEXI_I
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_JEXI_J
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_JEXI_J
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_KEXI_K
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_KEXI_K
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_LEXI_L
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_LEXI_L
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_M2EXI_M
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_M2EXI_M
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_N2EXI_N
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_N2EXI_N
+Opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_OEXI_O
+Problem opening transformation file /mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/_unified_representation/transformations/PEXI_P_plus_OEXI_O
 Starting HierarchicalFold
 SBB 0 set 1 isEmpty 0
 SBB 0 size 1
@@ -7409,8 +7409,8 @@ clustering resSet 1111111111111111 before: 1 after 1 scores -1:1500
 scores of saved -1:1500
 new kept results by chain 0:17, 1:17, 2:17, 3:17, 4:17, 5:17, 6:17, 7:17, 8:17, 9:17, 10:17, 11:17, 12:17, 13:17, 14:17, 15:17, 
 new kept results by resSet 1111111111111111:17, 
-Overall time 201.621 s
-only fold time 189.484 s
+Overall time 276.514 s
+only fold time 251.976 s
 countResults_ 18
-timer_ 00:03:03.86
-timerAll_ 00:03:12.97
+timer_ 00:03:59.49
+timerAll_ 00:04:16.20

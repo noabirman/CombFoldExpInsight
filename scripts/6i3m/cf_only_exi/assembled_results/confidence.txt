@@ -1,1 +1,1 @@
-/mnt/c/Users/tsori/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/assembled_results/output_clustered_0.pdb 100.0
+/mnt/c/users/USER/Documents/CombFoldExpInsight/scripts/6i3m/cf_only_exi/assembled_results/output_clustered_0.pdb 100.0
