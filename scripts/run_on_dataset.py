@@ -34,7 +34,6 @@ def process_complex_folders(af_folder, output_folder):
         af_folder (str): Path to the base folder containing complex folders.
         output_folder (str): Path to the output folder where merged af_output will be stored.
     """
-    merge_af_output_folders(af_folder, output_folder)
     for complex_name in os.listdir(af_folder):
         complex_folder = os.path.join(af_folder, complex_name)
         if os.path.isdir(complex_folder):
@@ -45,7 +44,8 @@ def process_complex_folders(af_folder, output_folder):
             os.system(f"python {pdb_path} {current_output_path} {merged_output_folder}")
 
 if __name__ == '__main__':
-    pdb_folder = 'path/to/pdb_folders'
-    af_folder = 'path/to/alpha_fold_folders'
-    output_folder = 'path/to/output_location'
+    pdb_folder = '/cs/usr/bshor/sci/projects/af_combdock/runs/20221121_my_dataset_full/input_complexes'
+    af_folder = '/cs/usr/bshor/sci/projects/af_combdock/runs/20221121_my_dataset_full/output'
+    output_folder = '/cs/usr/tsori/cf_exinsight'
     merge_af_output_folders(af_folder, output_folder)
+    process_complex_folders(af_folder, output_folder)
