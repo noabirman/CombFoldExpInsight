@@ -1,5 +1,7 @@
 import os
 import shutil
+import sys
+
 from cf_exi_insight import run_cf_exi_insight
 
 def merge_af_output_folders(af_folder, output_folder):
@@ -47,8 +49,13 @@ def process_complex_folders(pdb_folder, af_folder, output_folder):
                     os.makedirs(current_output_path)
                 run_cf_exi_insight(pdb_path, af_current_folder, current_output_path)
 if __name__ == '__main__':
-    pdb_folder = '/cs/usr/bshor/sci/projects/af_combdock/runs/20221121_my_dataset_full/input_complexes'
-    af_folder = '/cs/usr/bshor/sci/projects/af_combdock/runs/20221121_my_dataset_full/output'
-    af_output_folder = '/cs/usr/tsori/cf_exinsight/af_ouputs'
-    merge_af_output_folders(af_folder, af_output_folder)
-    process_complex_folders(pdb_folder, af_output_folder, '/cs/usr/tsori/cf_exinsight/outputs')
+    if len(sys.argv) == 4:
+        pdb_folder = os.path.abspath(sys.argv[1])
+        af_folder = os.path.abspath(sys.argv[2])
+        output_folder = os.path.abspath(sys.argv[3])
+        merge_af_output_folders(af_folder, output_folder)
+        process_complex_folders(pdb_folder, af_folder, output_folder)
+
+    else:
+        print("Usage: python run_on_dataset.py <pdb_folder> <af_folder> <output_folder>")
+        sys.exit(1)
